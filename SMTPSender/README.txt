@@ -6,7 +6,7 @@ a) Include the following files in your project:
 
 SKPSMTPMessage.*
 NSStream+SKPSMTPExtensions.*
-
+tets change
 OR
 
 b) Build the libsmtpmessage.a library and include that.
